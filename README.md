@@ -1,4 +1,5 @@
-#Hi there I am Rod!👋
+# Hi there I am Rod!👋
+
 - ⚡ Fun fact: I am Rod, I am currently working as a part-time web dev instructor. I am also into game development. Lets connect and collaborate. 
 
 
