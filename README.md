@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Github Stats](https://github-readme.stats.vercel.app/api?username=rodprogramdev&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodprogramdev&theme=radical)
