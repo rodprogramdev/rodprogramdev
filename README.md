@@ -1,8 +1,14 @@
-### Hi there 👋
+#Hi there I am Rod!👋
+- ⚡ Fun fact: I am Rod, I am currently working as a part-time web dev instructor. I am also into game development. Lets connect and collaborate. 
+
+
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=rodprogramdev&theme=radical" />
+
+<img align='left' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodprogramdev" />
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodprogramdev)](https://github.com/rodprogramdev/github-readme-stats)
 **rodprogramdev/rodprogramdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,7 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodprogramdev&theme=radical)
+-->
