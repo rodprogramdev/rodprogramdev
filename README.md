@@ -14,6 +14,9 @@
 
 <img align="left" alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
 
+<img align="left" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodprogramdev)](https://github.com/rodprogramdev/github-readme-stats)
 **rodprogramdev/rodprogramdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
