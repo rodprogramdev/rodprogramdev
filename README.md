@@ -4,6 +4,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodprogramdev" />
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rodprogramdev&theme=dark)](https://git.io/streak-stats)
 
 ⚡ WEB TECHNOLOGIES 
 
