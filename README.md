@@ -7,6 +7,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rodprogramdev&theme=dark)](https://git.io/streak-stats)
 
+⚡ PROJECT MANAGEMENT
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
 ⚡ WEB TECHNOLOGIES 
 
 
