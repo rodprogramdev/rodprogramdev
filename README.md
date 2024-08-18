@@ -1,6 +1,6 @@
 # Hi there I am Rod!👋
 
-⚡ Fun fact: I am Rod, I am a teacher, freelance web developer and an indie game developer, I'm currently working on the game Datu's Quest. You can check it out on Itch.io https://rodprogramdev.itch.io/datus-quest, Lets connect and collaborate. 
+⚡ Fun fact: I am Rod, I am a teacher, freelance web developer and an indie game developer, I'm currently working on the game Datu's Quest. You can get to know me more through my website https://rodrigobonzerrlopez.com/, Lets connect and collaborate. 
 
 <img src="https://img.itch.zone/aW1nLzEzMDc4MjIyLnBuZw==/original/Ux6uqA.png" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodprogramdev" />
