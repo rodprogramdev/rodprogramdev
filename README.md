@@ -1,6 +1,9 @@
 # Hi there I am Rod!👋
 
-⚡ Fun fact: I am Rod, I am a teacher, freelance web developer and an indie game developer, I'm currently working on the game Datu's Quest. You can get to know me more through my website https://rodrigobonzerrlopez.com/, Lets connect and collaborate. 
+⚡ Fun fact: I am Rod, I have 15 years of experience as an NSTP and disaster preparedness instructor. 3 years of game development experience and has done remote team projects and released 5 games as a team lead. 2 years of experience in teaching full-stack web development, Lets connect and collaborate. 
+
+⚡I'm currently working on putting up my own indie game studio and learning more game development with the use of the Unity engine and Godot. Checkout my progress in my fb page for "Pintig Laro Games" https://www.facebook.com/pintigLaroGamesIndieGameStudio
+
 
 <img src="https://img.itch.zone/aW1nLzEzMDc4MjIyLnBuZw==/original/Ux6uqA.png" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodprogramdev" />
